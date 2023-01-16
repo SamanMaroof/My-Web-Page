@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+
+.main{
+    margin: 2px;
+    display: inline-block;
+}
+
+.main img{
+    width: 250px;
+    padding: 35px;
+    display: inline-block;
+}
+
+.manicure{
+    width: 250px;
+    height: 250px;
+    padding-left: 50px;
+    padding-top: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+.facial{
+    width: 250px;
+    height: 250px;
+    padding-left: 50px;
+    padding-top: 2px;
+    display: inline-block;
+    text-align: center;
+}
+
+.hairstyling{
+    width: 250px;
+    height: 250px;
+    padding-left: 50px;
+    padding-top: 2px;
+    display: inline-block;
+    text-align: center;
+}
+
+.hairdye{
+    width: 250px;
+    height: 250px;
+    padding-left: 50px;
+    padding-top: 2px;
+    display: inline-block;
+    text-align: center;
+}
+
+.partymakeup{
+    width: 250px;
+    height: 250px;
+    padding-left: 50px;
+    padding-top: 2px;
+    display: inline-block;
+    text-align: center;
+}
+
+.bridalmakeup{
+    width: 250px;
+    height: 250px;
+    padding-left: 550px;
+    padding-top: 2px;
+    display: inline-block;
+    text-align: center;
+}
+
+.mehndi{
+    width: 250px;
+    height: 250px;
+    padding-left: 50px;
+    padding-top: 2px;
+    display: inline-block;
+    text-align: center;
+}
